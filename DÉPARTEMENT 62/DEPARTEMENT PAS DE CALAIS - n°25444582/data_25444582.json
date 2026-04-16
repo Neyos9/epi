@@ -1,0 +1,12 @@
+{
+  "numero_commande": "25 444 582",
+  "date_commande": "02/04/2026 à 16:40",
+  "client_nom": "DEPARTEMENT PAS DE CALAIS",
+  "client_compte": "99 144",
+  "total_pieces": 310,
+  "perso_types": [
+    "transfert",
+    "broderie"
+  ],
+  "import_date": "13/04/2026 11:14"
+}
