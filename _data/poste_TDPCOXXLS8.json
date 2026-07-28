@@ -1,0 +1,23 @@
+{
+ "fields": {
+  "26142013": {
+   "livMaxForce": {
+    "v": "24/07/2026",
+    "ts": 1784556140194,
+    "by": "TDPCOXXLS8"
+   },
+   "m:ATT AGENCE": {
+    "v": false,
+    "ts": 1784556092324,
+    "by": "TDPCOXXLS8"
+   }
+  },
+  "26020592": {
+   "livMaxForce": {
+    "v": "06/08/2026",
+    "ts": 1784556124048,
+    "by": "TDPCOXXLS8"
+   }
+  }
+ }
+}
